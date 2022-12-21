@@ -40,10 +40,10 @@ a:visited{
     color:#f7f2f2;
     font-family: fantasy;
     font-size: 30px;
-    width: 1600px;
+    width: 900px;
     position: absolute;
-    top:40%;
-    left:80%;
+    top:50%;
+    left:42%;
     transform: translate(-40%, -40%);
 }
 .grid{
